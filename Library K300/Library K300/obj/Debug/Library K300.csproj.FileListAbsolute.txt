@@ -1,0 +1,16 @@
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\Library K300.exe.config
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\Library K300.exe
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\Library K300.pdb
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library K300.csprojAssemblyReference.cache
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library_K300.Form1.resources
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library_K300.Properties.Resources.resources
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library K300.csproj.GenerateResource.cache
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library K300.exe
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library K300.pdb
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library_K300.LibraryForm.resources
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library_K300.ShowReaders.resources
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\EntityFramework.dll
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\EntityFramework.xml
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library K300.csproj.CopyComplete
