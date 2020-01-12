@@ -152,7 +152,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(648, 692);
+            this.ClientSize = new System.Drawing.Size(658, 692);
             this.Controls.Add(this.pcPhtForm);
             this.Controls.Add(this.cmbFaculity);
             this.Controls.Add(this.BtnReader);
@@ -166,7 +166,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "LibraryForm";
             this.Text = "LibraryForm";
-            this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.LibraryForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pcPhtForm)).EndInit();
             this.ResumeLayout(false);

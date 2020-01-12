@@ -37,11 +37,11 @@
             this.dtgReaders.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dtgReaders.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dtgReaders.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dtgReaders.Location = new System.Drawing.Point(24, 12);
+            this.dtgReaders.Location = new System.Drawing.Point(79, 65);
             this.dtgReaders.Name = "dtgReaders";
             this.dtgReaders.RowHeadersWidth = 62;
             this.dtgReaders.RowTemplate.Height = 28;
-            this.dtgReaders.Size = new System.Drawing.Size(1000, 564);
+            this.dtgReaders.Size = new System.Drawing.Size(861, 464);
             this.dtgReaders.TabIndex = 0;
             // 
             // ShowReaders

@@ -39,7 +39,12 @@ namespace Library_K300
         {
             ShowReaders sr = new ShowReaders();
             sr.Show();
+        }
 
+        private void booksToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            BooksForm bkf = new BooksForm();
+            bkf.ShowDialog();
         }
     }
 }

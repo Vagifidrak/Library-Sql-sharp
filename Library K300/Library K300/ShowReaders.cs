@@ -37,8 +37,9 @@ namespace Library_K300
 
             LibraryEntities db = new LibraryEntities();
             dtgReaders.DataSource = db.Book_To_Reader.Select(btr=>new 
-            {btr.Book.BookName,btr.Reader.Firstname,btr.TakeDate,btr.ReturnDate
+        {btr.Book.BookName,btr.Reader.Firstname,btr.TakeDate,btr.ReturnDate
             }).ToList();
+           
         }
     }
 }

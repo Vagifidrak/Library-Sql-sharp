@@ -14,3 +14,4 @@ C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\EntityF
 C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\EntityFramework.xml
 C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library K300.csproj.CopyComplete
+C:\Users\МММ\Desktop\FAYLLARIM\C#\Library K300\Library K300\obj\Debug\Library_K300.BooksForm.resources
